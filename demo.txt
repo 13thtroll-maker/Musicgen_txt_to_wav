@@ -1,0 +1,9 @@
+TEMPO 120
+BARS 2
+STEPS_PER_BAR 16
+
+KICK  x...x...x...x...
+SNARE ....x.......x...
+HAT   x.x.x.x.x.x.x.x.
+BASS  C2 . . . G2 . . . C2 . . . A2 . . .
+LEAD  E4+G4 . . . C5 . . B4 . . A4 . . G4 . . 
