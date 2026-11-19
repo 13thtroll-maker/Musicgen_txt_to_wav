@@ -15,8 +15,7 @@ lookahead limiter, and a plugin system.
 
 ## ⚠️ Read this first
 
-**I am not a C++ developer.** This project was generated with AI assistance
-(mostly Claude / GPT-class models) and used for my own Godot game. I wrote
+**I am not a C++ developer.** This project was generated with AI assistance and used for my own Godot game. I wrote
 the DSL and iterated on the design; the C++ implementation was largely
 produced by AI and reviewed by me at the level of "does it compile and
 sound right".
